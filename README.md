@@ -1,4 +1,4 @@
-# PlayOnLinux Un Official Scripts
+# PlayOnLinux UnOfficial Scripts
 ## なにこれ？
 PlayOnLinuxであれこれするための勝手スクリプトです。
 ローカルスクリプトを実行で使うことが出来ます。
